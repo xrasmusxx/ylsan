@@ -8,4 +8,3 @@ def minimum(a, b):
     b = float(input("sisesta teine number"))
     print("väiksem arv on: ")
     print(minimum(a, b))
-    
